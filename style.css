@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    padding: 20px;
+    background-image: url(https://www.almanac.com/sites/default/files/image_nodes/rainbow-weather.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#btn{
+    background-color: gold;
+    color: white;
+    font-size: 1em;
+    height: 50px;
+    border-radius: 30px;
+}
